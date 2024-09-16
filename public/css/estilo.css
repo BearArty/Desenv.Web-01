@@ -1,0 +1,52 @@
+:root {
+    --bg-color: #fafafa;
+    --bg-sec: #8b4513;
+    --texto-p: #0d420d;
+    --texto-s: #212121;
+    --botao-cad: #27ae22;
+    --botao-edit: #e67e22;
+    --botao-exc: #e74c3c;
+    --botao-curtir: #2980B9;
+    --bordas: #d3d3d3;
+}
+
+.bod {
+    background-color: var(--bg-color);
+}
+
+.textoP {
+    font-weight: bolder;
+}
+
+header, footer {
+    background: var(--bg-sec);
+    font-weight: bolder;
+}
+
+.curtir {
+    background-color: var(--botao-curtir);
+}
+
+.link {
+    color: var(--botao-exc);
+}
+
+.botaoEdit {
+    background-color: var(--botao-edit);
+    border-color: var(--botao-edit);
+}
+
+.botaoCad {
+    background-color: var(--botao-cad);
+    border-color: var(--botao-cad);
+}
+
+.botaoExc {
+    background-color: var(--botao-exc);
+    border-color: var(--botao-exc);
+}
+
+.botaoCurtir {
+    background-color: var(--botao-curtir);
+    border-color: var(--botao-curtir);
+}

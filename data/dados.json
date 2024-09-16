@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1726000112898,
+    "nome": "Bolo de Chocolate",
+    "porcoes": 15,
+    "tempo": "1:30h",
+    "descricao": "Bolo de chocolate com cobertura de frutas vermelhas",
+    "img_receita": "/uploads/1726256805165.jpg",
+    "curtidas": 0
+  },
+  {
+    "id": 1726256024804,
+    "nome": "Sanduíche de Pernil",
+    "porcoes": 3,
+    "tempo": "45 minutos",
+    "descricao": "Sanduíche de pernil na baguette",
+    "img_receita": "/uploads/1726257087602.jpg",
+    "curtidas": 0
+  },
+  {
+    "id": 1726257335109,
+    "nome": "Mini Pizza",
+    "porcoes": 2,
+    "tempo": "80 minutos",
+    "descricao": "Mini Pizzas de queijo",
+    "img_receita": "/uploads/1726257335107.jpg",
+    "curtidas": 0
+  },
+  {
+    "id": 1726257429164,
+    "nome": "Panqueca Americana",
+    "porcoes": 2,
+    "tempo": "30 minutos",
+    "descricao": "Panquecas Americanas com frutas e calda de caramelo",
+    "img_receita": "/uploads/1726257429162.jpg",
+    "curtidas": 0
+  },
+  {
+    "id": 1726516662914,
+    "nome": "Carré de Cordeiro",
+    "porcoes": 8,
+    "tempo": "1h",
+    "descricao": "Carré de cordeiro acompanhado com legumes",
+    "img_receita": "/uploads/1726516662909.jpg",
+    "curtidas": null
+  },
+  {
+    "id": 1726516735261,
+    "nome": "Posta de Peixe ",
+    "porcoes": 3,
+    "tempo": "45 minutos",
+    "descricao": "Postas de peixe com salada",
+    "img_receita": "/uploads/1726516735253.jpg",
+    "curtidas": null
+  },
+  {
+    "id": 1726516948364,
+    "nome": "Arroz Cremoso",
+    "porcoes": 2,
+    "tempo": "20 minutos",
+    "descricao": "Arroz cremoso com camarão, milho, servido com cheiro verde e molho",
+    "img_receita": "/uploads/1726517186988.jpg",
+    "curtidas": null
+  }
+]
